@@ -1,0 +1,2 @@
+Objective: Detect and classify animals, highlight carnivores, and display results through a GUI with image and video preview features.
+Key Requirements: TensorFlow for training, OpenCV for image/video handling, Pillow for GUI image rendering, and Pandas for data storage.
